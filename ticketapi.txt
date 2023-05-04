@@ -1,0 +1,14 @@
+(GET)
+https://api.ticketmaster.com/compras/cliente=124200
+“cliente”:{
+	“nombre”:
+	“apellidos”:
+	“ciudad”:
+	“forma de pago”:
+	}
+(POST)    API REST
+(GET) {cliente:_id:  }
+(POST) /compras/activas  https:/1.1 content-type:aplication/json
+{“cliente”: {
+	“id”:”124200”
+	}
